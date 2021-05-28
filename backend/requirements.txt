@@ -1,0 +1,9 @@
+django
+
+mysqlclient
+
+nltk
+
+Pillow
+
+django-filter
