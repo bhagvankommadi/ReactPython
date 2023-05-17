@@ -7,3 +7,5 @@ nltk
 Pillow
 
 django-filter
+
+djangorestframework
